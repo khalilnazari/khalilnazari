@@ -23,6 +23,9 @@ Khalil is an talented web developer
 <img src="https://www.svgrepo.com/show/331488/mongodb.svg" style="width:20px;"> MongoDB &ensp;&ensp;
 <img src="https://www.svgrepo.com/show/373644/graphql.svg" style="width:20px;"> GraphQL &ensp;&ensp;
 
+##### Version Control   
+<img src="https://www.svgrepo.com/show/341844/git.svg" style="width:20px;"> Git &ensp;&ensp;
+<img src="https://www.svgrepo.com/show/341847/github.svg" style="width:20px;"> GitHub &ensp;&ensp;
 
 
 ## 🔗 Let's Connect 
