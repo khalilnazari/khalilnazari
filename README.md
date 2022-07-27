@@ -1,6 +1,6 @@
 ![Repository banner](https://gaper.io/wp-content/uploads/2022/02/mern-stack.webp)
 
-# 👋 Hi, I’m @khalilnazari
+# 👋 Hi, I’m [@khalilnazari](https://khalilnazari.github.io/portfolio/)
 Web Developer
 
 ## 🚀 About Me
